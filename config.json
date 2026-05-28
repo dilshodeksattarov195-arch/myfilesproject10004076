@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvarse",
+        "uuid": 31002056,
+        "checksum": "34j2zd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
